@@ -1,0 +1,7 @@
+version: '3.7'
+
+services:
+  rocky:
+    build: ./rockylinux
+    tty: true
+
